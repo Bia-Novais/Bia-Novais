@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A103FC&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Me+chamo+Ana+Beatriz+Novais+)](https://github.com/Bia-Novais)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A103FC&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Me+chamo+Ana+Beatriz+Novais+!!)](https://github.com/Bia-Novais)
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bia-Novais&show_icons=true&theme=algolia&locale=pt-br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bia-Novais&layout=compact&theme=algolia&locale=pt-br">
